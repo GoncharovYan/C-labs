@@ -1,0 +1,3 @@
+D:\Projects\Libs\Logger\Debug\Logger.pdb
+D:\Projects\Libs\Logger\Logger\Debug\Logger.pdb
+D:\Projects\Projects\Lab8\Debug\Logger.pdb
